@@ -1,4 +1,5 @@
 Mini-Project 1: Notes and References
+
 Janie Davis
 
 National Bridge Inventory (NBI) data for 2022 and 2023 downloaded as zip files here: https://www.fhwa.dot.gov/bridge/nbi/ascii.cfm
